@@ -9,3 +9,8 @@ using state Bundle and Shared Preferences
 
 Use of logcat to watch the logging
 
+
+When you extract this code you may need to change the target SDK
+
+eclipse: Properties->Android->5.1.1 (select)
+
